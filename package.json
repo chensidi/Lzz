@@ -8,6 +8,7 @@
     "vitepress": "^1.6.4"
   },
   "dependencies": {
-    "vue": "^3.5.22"
+    "vue": "^3.5.22",
+    "vitepress-plugin-music": "^0.0.9"
   }
 }
